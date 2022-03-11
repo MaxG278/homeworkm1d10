@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    Text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+href {
+    color: rgb(206, 5, 42)
+}
+table {
+    corner-radius: 10px;
+
+}
+p {
+    margin: 10px;
+}
+.font {
+    font-size: 1.5em;
+    text-weight: bold;
+}
+td {
+    border-color: green;
+}
+tr {
+    border-color: red;
+    border-style: dotted;
+
+}
